@@ -417,7 +417,7 @@ simply submit the URL that can be used to clone your GitHub repo.
 Given that URL, we can then clone your repo and get our own copy of
 your code to run the tests on.
 
-- [ ] Submit your code to MarkUs
+- [X] Submit your code to MarkUs
   - copy the URL from GitHub that you used to clone **your fork of the FizzBuzz repo**.
   - log into MarkUs and go to the `week1git` assignment.
   - submit the URL by pasting the URL into the submission box; do not change anything.
